@@ -1,5 +1,7 @@
 h1. Time-Tree 
+
 Time tree seeks to provide a data structure for reading time series data. Currently it reads a CSV file
 
 h2. How does it work?
+
 It contains a set of specs under spec/lib directory. It also has examples/ where this library is being used. Currently it implements just one instance method that lets you find the closes entry in time to a given value.
