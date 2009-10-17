@@ -1,2 +1,4 @@
+spec/spec.html
+cache/*
 output/*
 .DS_Store
